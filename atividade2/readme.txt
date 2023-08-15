@@ -1,0 +1,1 @@
+fiz duas possíveis soluções para o exercício 4 por não saber qual se encaixaria melhor com o pedido do enunciado. 
