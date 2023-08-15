@@ -44,7 +44,7 @@ int main(){
 
     printf("\n");
 
-    printf("\nResultado: s");
+    printf("\nResultado: ");
     for(i=0;i<n;i++){
         printf("%d ", stringresultado[i]);
     }
