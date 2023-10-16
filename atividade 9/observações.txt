@@ -1,0 +1,6 @@
+O código é capaz de ler todos os números do arquivo .csv (COM A NECESSIDADE DE VOCÊ INFORMAR O NOME DO ARQUIVO NO INÍCIO DA EXECUÇÃO) e inserir eles nas listas ordenadas e não ordenadas, passando pelos nós. É feita uma verificação de posição para que você possa acompanhar enquanto o código está sendo executado.
+A inserção dos números na lista não ordenada é rápida e prática, já durante a inserção dos mesmos números na lista ordenada, não sei se por mal planejamento do código, ou pelo tamanho do arquivo, ou pelo poder de processamento da minha máquina, o tempo de espera para a conclusão foi notável.
+Durante testes, utilizando uma lista com 109579 (também incluso no repositório) números, o tempo médio foi de:
+Inserção na lista não ordenada: 0.000001 segundos.
+Inserção na lista ordenada: 0.000145 segundos.
+Entretanto, o código passa por algumas verificações antes de exibir os resultados, possivelmente o tempo de execução seria reduzido caso tais verificações	fossem alterados e/ou retiradas. Mas por aprendizado e por garantia, mantive as verificações.
